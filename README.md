@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItzSelenux/ItzSelenux/main/assets/banner.png" width="100%"/>
+</p>
+
 <h2 align="center">Hi, I'm Sridevi 👋</h2>
 
 <p align="center">
