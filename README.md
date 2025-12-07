@@ -22,9 +22,7 @@ I enjoy turning raw data into something useful — models, insights, or automati
 - Strengthening SQL queries & database design  
 
 ---
-## 🚀 Tech Stack
-
-### 🔥 Languages & ML Stack
+<!-- ✅ Languages & ML Stack -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
@@ -35,31 +33,23 @@ I enjoy turning raw data into something useful — models, insights, or automati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
 </p>
 
----
-
-### ☁️ Cloud & Environment
+<!-- ✅ Cloud & Environment (only Devicon-based) -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45"/>
-  <img src="https://colab.research.google.com/img/colab_logo_button.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
----
-
-### 🛢️ Databases
+<!-- ✅ Databases -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 </p>
 
----
-
-### 🔧 Tools
+<!-- ✅ Tools -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img src="https://www.xmind.app/wp-content/themes/xmind8/images/logo.svg" height="45"/>
 </p>
 
 ---
