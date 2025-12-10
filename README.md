@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://sm.pinimg.com/webapp/www/_client-833b728344fa3579.mjs.map
-" width="100%">
-</p>
+
 
 <h2 align="center">Hi, I'm Sridevi 👋</h2>
 
