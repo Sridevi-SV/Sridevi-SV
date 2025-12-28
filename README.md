@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Sridevi 👋</h2>
 
 <p align="center">
-I'm an AI & Data Science student building real-world ML workflows, dashboards, and cloud-powered projects.  
+I'm an AI & Data Science student building real-world ML workflows, dashboards, and performing data analytics.  
 I enjoy turning raw data into something useful — models, insights, or automation.
 </p>
 
